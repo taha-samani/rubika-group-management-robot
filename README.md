@@ -1,23 +1,36 @@
 <p align="center">
 <img src="https://github.com/taha-samani/rubika-group-management-robot/blob/main/bot.jpg" alt="Rubika group management robot" alin="center" width="400px">
-</p>
-<a href="https://rubika.ir/strongbotpython" text-decoretion="none">rubika channel</a>
+    
+<a align="center" href="https://rubika.ir/strongbotpython" >rubika channel</a>
+    
 ## Rubika group management robot🤖👀✌️
+</p>
+
 
 <h1 style="color: blue;">یک ربات قوی با دستورات متنوع برای ادمین</h1>
 
 ## **روش استفاده**
-**-فایل `links`  باز کنید در لیست `links = []` لینک یا لینک های خود را قرار دهید **
+
+**-فایل `links`  باز کنید در لیست `links = []` لینک یا لینک های خود را قرار دهید**
+
 **-فایل `bot.py` را اجرا کرده و احزار هویت می کنید**
-**-سپس ری اکشن های گروه را فعال کرده و ربات را ادمین کنید **
+
+**-سپس ری اکشن های گروه را فعال کرده و ربات را ادمین کنید**
+
 ## **اگر میخواهید روی هاست باشد کار زیر را انجام دهید**
+
 **-پس ادمین کردن ربات فایل را ببندید پوشه ربات را زیپ کنید  ان را در هاست لیارا در بخش برنامه داکر مستقر کنید در کانال روبیکا ویدیو ان فرستاده خواهد داده شد**
+<a href="https://rubika.ir/strongbotpython" align="center">rubika channel</a>
 
 
-## قابلیت هاش 🙂👇
+<p dir="rtl">
 
-<p dir="rtl" text-wrap="warp">
+    
+# قابلیت هاش 🙂👇
 
+
+### **ربات هم زبان فارسی پاسخ میتواند بدهد هم اینگلیسی برای این قابلیت و اموزشش در کانال روبیکا عضو شوید**
+    
 ## 🧑دستورات کاربر های گروه
 
 ### *‼️دستورات زیر نیاز به ریپلای پیام مورد نظر دارد*
